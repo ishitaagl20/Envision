@@ -2,7 +2,7 @@
 
 ## Overview
 
-Envision offers real-time environmental descriptions, voice-based interaction, and seamless assistance in everyday tasks. This project integrates several technologies such as YOLO (You Only Look Once) for object detection, EasyOCR for optical character recognition (OCR), Web Speech API for voice interaction, and Gemini 1.5 Pro for scene description and contextual understanding.
+Envision offers real-time surrounding descriptions, voice-based interaction, thereby assisting in everyday tasks. This project integrates several technologies such as YOLO for object detection, EasyOCR for optical character recognition (OCR), Web Speech API for voice interaction, and Gemini 1.5 Pro for scene description and contextual understanding.
 
 The system aims to provide users with an intuitive, real-time assistive experience, enabling them to navigate their environment, read text, and interact with the system using their voice.
 
