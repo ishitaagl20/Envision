@@ -1,26 +1,41 @@
-# Envision: AI-Powered Assistance for the Visually Impaired
+# Envision: Assistive Technology for the Visually Impaired
 
-Envision is an innovative project aimed at assisting the visually impaired using advanced AI technologies. It leverages computer vision, natural language processing (NLP), and wearable device integration to provide a seamless experience in everyday life.
+## Overview
+
+Envision offers real-time environmental descriptions, voice-based interaction, and seamless assistance in everyday tasks. This project integrates several technologies such as YOLO (You Only Look Once) for object detection, EasyOCR for optical character recognition (OCR), Web Speech API for voice interaction, and Gemini 1.5 Pro for scene description and contextual understanding.
+
+The system aims to provide users with an intuitive, real-time assistive experience, enabling them to navigate their environment, read text, and interact with the system using their voice, all while maintaining an accuracy of 97%.
 
 ## Features
 
-- **Text Reading**: Convert text from any surface (books, documents, signs) into speech.
-- **Face Recognition**: Identify familiar faces and notify the user.
-- **Scene Description**: Describe the surroundings to help navigate unfamiliar environments.
-- **Navigation Assistance**: Use AI to guide the user through unknown or crowded spaces with voice prompts.
-- **Conversational Chatbot**: Interact with a conversational AI for instant help with queries or tasks.
+- **Real-Time Object Detection**: Using YOLO-based frameworks, the system detects and identifies objects in real time, helping users recognize and avoid obstacles in their path.
+  
+- **Text Recognition and Speech Output**: Through EasyOCR, the system reads any printed text (from documents, menus, signs, etc.) and converts it into speech for the user to hear.
+  
+- **Voice Interaction**: Integrated with the Web Speech API, the system responds to voice commands, offering seamless interaction for users to control features and receive feedback.
+  
+- **Contextual Scene Description**: The Gemini 1.5 Pro model provides detailed and contextually aware descriptions of the environment, making the user experience more intuitive and dynamic.
 
-## Technologies Used
+## Installation
 
-- **Computer Vision**: For face recognition and scene description.
-- **Speech Recognition and Synthesis**: To read text aloud and communicate with the user.
-- **Natural Language Processing (NLP)**: For understanding and responding to user queries.
-- **Machine Learning Models**: Trained for various tasks, including text-to-speech conversion and face recognition.
-- **Wearable Devices**: Integrated with sensors to enhance the navigation features.
+### Requirements
 
-### Installation
+- **Python 3.x**
+- **React (for frontend)**
+- **TensorFlow**
+- **YOLOv3 models** for object detection
+- **EasyOCR** for text recognition
+- **Web Speech API** (for voice interaction)
+- **Gemini 1.5 Pro API** for scene description
+
+### Installation Steps
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/envision.git
-   
+   cd envision
+
+## Acknowledgments
+
+- This project was undertaken as final year Project - 1 as a part of Computer Science and Engineering Program of [VIT](https://vit.ac.in/).
+- This project was developed in collaboration with [Sagar](https://github.com/Sagar-Mondal) and [Aanchal](https://github.com/aanchxl).
