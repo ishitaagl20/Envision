@@ -37,5 +37,5 @@ The system aims to provide users with an intuitive, real-time assistive experien
 
 ## Acknowledgments
 
-- This project was undertaken as final year Project - 1 as a part of Computer Science and Engineering Program of [VIT](https://vit.ac.in/).
+- This project was undertaken as final year Project - 1 as a part of the Computer Science and Engineering Program at [Vellore Institute of Technology](https://vit.ac.in/).
 - This project was developed in collaboration with [Sagar](https://github.com/Sagar-Mondal) and [Aanchal](https://github.com/aanchxl).
