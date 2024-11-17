@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3400f473.chunk.css",
+    "main.js": "/static/js/main.cf3d845f.chunk.js",
+    "main.js.map": "/static/js/main.cf3d845f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aa7c5349.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aa7c5349.js.map",
+    "static/css/2.b45a0d95.chunk.css": "/static/css/2.b45a0d95.chunk.css",
+    "static/js/2.954c1cbc.chunk.js": "/static/js/2.954c1cbc.chunk.js",
+    "static/js/2.954c1cbc.chunk.js.map": "/static/js/2.954c1cbc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.b45a0d95.chunk.css.map": "/static/css/2.b45a0d95.chunk.css.map",
+    "static/css/main.3400f473.chunk.css.map": "/static/css/main.3400f473.chunk.css.map",
+    "static/js/2.954c1cbc.chunk.js.LICENSE.txt": "/static/js/2.954c1cbc.chunk.js.LICENSE.txt",
+    "static/media/nobleCause.c7539db6.jpg": "/static/media/nobleCause.c7539db6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa7c5349.js",
+    "static/css/2.b45a0d95.chunk.css",
+    "static/js/2.954c1cbc.chunk.js",
+    "static/css/main.3400f473.chunk.css",
+    "static/js/main.cf3d845f.chunk.js"
+  ]
+}

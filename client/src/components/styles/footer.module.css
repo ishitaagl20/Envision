@@ -1,0 +1,13 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* background: rgb(0, 63, 63); */
+  background: #003366;
+  color: white;
+  /* height: 20rem; */
+}
+
+.footerBottom {
+  padding: 0 3%;
+}
